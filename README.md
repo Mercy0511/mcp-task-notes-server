@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 MCP Task Notes Server
 
 <p align="center">
@@ -302,3 +303,6 @@ Interested in:
 
 
 ---
+=======
+# mcp-task-notes-server
+>>>>>>> df0852c29a922ffcd2296d1d90263173064339f6
