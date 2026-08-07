@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+db/tasks_notes.db
+.DS_Store
